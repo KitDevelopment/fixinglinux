@@ -1,0 +1,3 @@
+This program resets your network manager and network card if using wlan0mon (If not using wlan0mon just replace it with whatever interface you use)
+I found using programs like wifite/airmon-ng etc will completely stop my WiFi connection from working, even after
+so I wrote this script to fix that.
